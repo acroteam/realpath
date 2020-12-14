@@ -1,0 +1,16 @@
+# IDE dettings
+.vscode/
+.idea/
+
+# OS X system files
+.DS_Store
+
+# Build files
+*build*/
+*bin*/
+
+# Libraries
+*lib*/
+
+# Binaries
+realpath
